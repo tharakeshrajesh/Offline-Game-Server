@@ -15,3 +15,7 @@ Searched up some parts:
 * [SPI TFT LCD Display Module](https://www.aliexpress.us/item/3256805953674718.html)
 * [50 ct. Tactile Push Buttons](https://www.aliexpress.us/item/2251832629654875.html)
 * [KY-023 Joystick Module](https://www.aliexpress.us/item/3256808899611893.html)
+
+# 06/28/2025
+I decided not to use the Raspberry Pi 5 and to use its compute module version instead to make it less bulky and more portable.
+Also added the MIT license yesterday.
