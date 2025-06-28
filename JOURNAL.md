@@ -21,4 +21,4 @@ I decided not to use the Raspberry Pi 5 and to use its compute module version in
 Also added the MIT license yesterday.
 Found some footprints and stuff:
 * [DF40 Connector](https://app.ultralibrarian.com/details/4330ca74-5bcc-11ea-8c00-0ad2c9526b44/Hirose/DF40C-100DS-0-4V-51-)
-* [LCD Display](https://github.com/dishishshawn/kicad-st7735s-1.8in-tft)
+* [LCD Display](https://github.com/dishishshawn/kicad-st7735s-1.8in-tft) but I had to edit it to work with the [LCD I am using](https://www.aliexpress.us/item/3256805953674718.html).
