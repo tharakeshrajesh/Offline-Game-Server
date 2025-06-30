@@ -24,7 +24,7 @@ Found some footprints and stuff:
 * [LCD Display](https://github.com/dishishshawn/kicad-st7735s-1.8in-tft) but I had to edit it to work with the [LCD I am using](https://www.aliexpress.us/item/3256805953674718.html).
 I also decided not to use joysticks and to replace it with a switch rotary encoder instead.
 
-#06/29/2025
+# 06/29/2025
 Finished schematics and PCB and added more libraries.
 The DF40 connector's pins are too close to each other so I couldn't get the wires on the PCB to connect to them so I will have to hand solder that.
 May fix that issue later, probably not...
