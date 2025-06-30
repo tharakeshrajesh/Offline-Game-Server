@@ -1,0 +1,204 @@
+# Raspberry Pi Compute Module 5 (CM5) Full 200-Pin Pinout
+# J6 Connector (Bottom, 100 pins)
+Pin 1   | +3.3V
+Pin 2   | +5V (VBAT)
+Pin 3   | GPIO2 (SDA1)
+Pin 4   | +5V (VBAT)
+Pin 5   | GPIO3 (SCL1)
+Pin 6   | GND
+Pin 7   | GPIO4
+Pin 8   | GPIO14 (TXD0)
+Pin 9   | GND
+Pin 10  | GPIO15 (RXD0)
+Pin 11  | GPIO17
+Pin 12  | GPIO18 (PWM0/PCM_CLK)
+Pin 13  | GPIO27
+Pin 14  | GND
+Pin 15  | GPIO22
+Pin 16  | GPIO23
+Pin 17  | +3.3V
+Pin 18  | GPIO24
+Pin 19  | GPIO10 (SPI0_MOSI)
+Pin 20  | GND
+Pin 21  | GPIO9  (SPI0_MISO)
+Pin 22  | GPIO25
+Pin 23  | GPIO11 (SPI0_SCLK)
+Pin 24  | GPIO8  (SPI0_CE0)
+Pin 25  | GND
+Pin 26  | GPIO7  (SPI0_CE1)
+Pin 27  | GPIO0  (ID_SD)
+Pin 28  | GPIO1  (ID_SC)
+Pin 29  | GPIO5
+Pin 30  | GND
+Pin 31  | GPIO6
+Pin 32  | GPIO12 (PWM0)
+Pin 33  | GPIO13 (PWM1)
+Pin 34  | GND
+Pin 35  | GPIO19 (PCM_FS)
+Pin 36  | GPIO16
+Pin 37  | GPIO26
+Pin 38  | GPIO20 (PCM_DIN)
+Pin 39  | GND
+Pin 40  | GPIO21 (PCM_DOUT)
+Pin 41  | HDMI0_HPD_N
+Pin 42  | HDMI0_CLK_N
+Pin 43  | HDMI0_CLK_P
+Pin 44  | GND
+Pin 45  | HDMI0_D0_N
+Pin 46  | HDMI0_D0_P
+Pin 47  | HDMI0_D1_N
+Pin 48  | HDMI0_D1_P
+Pin 49  | GND
+Pin 50  | HDMI0_CEC
+Pin 51  | HDMI1_HPD_N
+Pin 52  | HDMI1_CLK_N
+Pin 53  | HDMI1_CLK_P
+Pin 54  | GND
+Pin 55  | HDMI1_D0_N
+Pin 56  | HDMI1_D0_P
+Pin 57  | HDMI1_D1_N
+Pin 58  | HDMI1_D1_P
+Pin 59  | GND
+Pin 60  | HDMI1_CEC
+Pin 61  | USB2_P
+Pin 62  | USB2_N
+Pin 63  | GND
+Pin 64  | USB3_RX_P
+Pin 65  | USB3_RX_N
+Pin 66  | GND
+Pin 67  | USB3_TX_P
+Pin 68  | USB3_TX_N
+Pin 69  | GND
+Pin 70  | PCIe_CLK_P
+Pin 71  | PCIe_CLK_N
+Pin 72  | GND
+Pin 73  | PCIe_RX_P
+Pin 74  | PCIe_RX_N
+Pin 75  | GND
+Pin 76  | PCIe_TX_P
+Pin 77  | PCIe_TX_N
+Pin 78  | GND
+Pin 79  | PCIe_RST#
+Pin 80  | PCIe_CLKREQ#
+Pin 81  | GND
+Pin 82  | CAM0_D0_N
+Pin 83  | CAM0_D0_P
+Pin 84  | GND
+Pin 85  | CAM0_D1_N
+Pin 86  | CAM0_D1_P
+Pin 87  | GND
+Pin 88  | CAM0_CLK_N
+Pin 89  | CAM0_CLK_P
+Pin 90  | GND
+Pin 91  | CAM1_D0_N
+Pin 92  | CAM1_D0_P
+Pin 93  | GND
+Pin 94  | CAM1_D1_N
+Pin 95  | CAM1_D1_P
+Pin 96  | GND
+Pin 97  | CAM1_CLK_N
+Pin 98  | CAM1_CLK_P
+Pin 99  | GND
+Pin 100 | nRPIBOOT
+
+# J5 Connector (Top, 100 pins)
+Pin 1   | RUN
+Pin 2   | GND
+Pin 3   | GPIO28
+Pin 4   | GPIO29
+Pin 5   | GPIO30
+Pin 6   | GPIO31
+Pin 7   | GPIO32
+Pin 8   | GPIO33
+Pin 9   | GPIO34
+Pin 10  | GPIO35
+Pin 11  | GPIO36
+Pin 12  | GPIO37
+Pin 13  | GPIO38
+Pin 14  | GPIO39
+Pin 15  | GPIO40
+Pin 16  | GPIO41
+Pin 17  | GPIO42
+Pin 18  | GPIO43
+Pin 19  | GPIO44
+Pin 20  | GPIO45
+Pin 21  | GPIO46
+Pin 22  | GPIO47
+Pin 23  | GPIO48
+Pin 24  | GPIO49
+Pin 25  | GPIO50
+Pin 26  | GPIO51
+Pin 27  | GPIO52
+Pin 28  | GPIO53
+Pin 29  | GPIO54
+Pin 30  | GPIO55
+Pin 31  | GPIO56
+Pin 32  | GPIO57
+Pin 33  | GPIO58
+Pin 34  | GPIO59
+Pin 35  | GPIO60
+Pin 36  | GPIO61
+Pin 37  | GPIO62
+Pin 38  | GPIO63
+Pin 39  | GPIO64
+Pin 40  | GPIO65
+Pin 41  | GPIO66
+Pin 42  | GPIO67
+Pin 43  | GPIO68
+Pin 44  | GPIO69
+Pin 45  | GPIO70
+Pin 46  | GPIO71
+Pin 47  | GPIO72
+Pin 48  | GPIO73
+Pin 49  | GPIO74
+Pin 50  | GPIO75
+Pin 51  | GPIO76
+Pin 52  | GPIO77
+Pin 53  | GPIO78
+Pin 54  | GPIO79
+Pin 55  | GPIO80
+Pin 56  | GPIO81
+Pin 57  | GPIO82
+Pin 58  | GPIO83
+Pin 59  | GPIO84
+Pin 60  | GPIO85
+Pin 61  | GPIO86
+Pin 62  | GPIO87
+Pin 63  | GPIO88
+Pin 64  | GPIO89
+Pin 65  | GPIO90
+Pin 66  | GPIO91
+Pin 67  | GPIO92
+Pin 68  | GPIO93
+Pin 69  | GPIO94
+Pin 70  | GPIO95
+Pin 71  | GPIO96
+Pin 72  | GPIO97
+Pin 73  | GPIO98
+Pin 74  | GPIO99
+Pin 75  | GPIO100
+Pin 76  | GPIO101
+Pin 77  | GPIO102
+Pin 78  | GPIO103
+Pin 79  | GPIO104
+Pin 80  | GPIO105
+Pin 81  | GPIO106
+Pin 82  | GPIO107
+Pin 83  | GPIO108
+Pin 84  | GPIO109
+Pin 85  | GPIO110
+Pin 86  | GPIO111
+Pin 87  | GPIO112
+Pin 88  | GPIO113
+Pin 89  | GPIO114
+Pin 90  | GPIO115
+Pin 91  | GPIO116
+Pin 92  | GPIO117
+Pin 93  | GPIO118
+Pin 94  | GPIO119
+Pin 95  | GPIO120
+Pin 96  | GPIO121
+Pin 97  | GPIO122
+Pin 98  | GPIO123
+Pin 99  | GPIO124
+Pin 100 | GND
