@@ -33,7 +33,7 @@ Also added USB-C power receptacle which I didn't yesterday. I forgot to add on y
 # 07/4/2025
 Okay, I am back from inactivity. But today was not pleasant.
 
-[image](https://files.slack.com/files-tmb/T0266FRGM-F094U53PU81-532357941e/image_480.png)
+![image](https://i.ibb.co/v4ysDnVp/image-2025-07-04-181535152.png)
 
 230 errors and 12 warnings.
 Fortunately I fixed most of them since they were just clearance errors and wiring warnings with the DF40 pads/pins and LCD pads. I also finished wiring everything including LCD because apparently I forgot that last time but anyways...
