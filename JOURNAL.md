@@ -30,7 +30,7 @@ The DF40 connector's pins are too close to each other so I couldn't get the wire
 May fix that issue later, probably not...
 Also added USB-C power receptacle which I didn't yesterday. I forgot to add on yesterday that I was half done with schematics but now you know.
 
-* 07/4/2025
+# 07/4/2025
 Okay, I am back from inactivity. But today was not pleasant.
 ![image](https://files.slack.com/files-tmb/T0266FRGM-F094U53PU81-532357941e/image_480.png)
 230 errors and 12 warnings.
